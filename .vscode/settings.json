@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b353f13c-f5ef-4ca0-974e-278d42b22f68/resourceGroups/tripetrol_group/providers/Microsoft.Web/sites/tripetrol",
+    "appService.deploySubpath": "."
+}
